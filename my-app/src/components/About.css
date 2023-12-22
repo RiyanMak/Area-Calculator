@@ -1,0 +1,13 @@
+.about {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .about h2 {
+    color: #123456;
+  }
+  
+  .about p {
+    color: #333;
+  }
