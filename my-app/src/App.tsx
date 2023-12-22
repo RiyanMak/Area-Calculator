@@ -1,5 +1,4 @@
 import React from 'react';
-// import logo from './logo.svg';
 import About from './components/About';
 import './App.css';
 import Header from './components/Header';
@@ -11,7 +10,7 @@ const App: React.FC = () => {
     <div className="app">
       <Header />
       <main>
-        <About />
+        <About /> {/* Use PascalCase here */}
       </main>
       <Footer />
     </div>

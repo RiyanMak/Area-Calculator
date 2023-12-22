@@ -4,9 +4,9 @@ import './About.css'; // Importing CSS
 const About: React.FC = () => {
   return (
     <section id="about" className="about">
-      <h2>ABOUT SECTION</h2>
-      <p>SOME WORDS</p>
-      {/* Add your bio here */}
+      <h2>Use PascalCase here</h2>
+      <p>Use PascalCase here</p>
+      {/* Use PascalCase here */}
     </section>
   );
 };

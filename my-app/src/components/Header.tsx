@@ -4,9 +4,9 @@ import './Header.css'; // Importing CSS
 const Header: React.FC = () => {
   return (
     <header className="header">
-      <h1>STUFF</h1>
+      <h1>Use PascalCase here</h1>
       <nav>
-        <a href="#about">About</a>
+        <a href="#about">Use PascalCase here</a>
       </nav>
     </header>
   );
