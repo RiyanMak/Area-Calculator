@@ -3,6 +3,7 @@ import React from 'react';
 import About from './components/About';
 import './App.css';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 const App: React.FC = () => {
   return (
@@ -11,6 +12,7 @@ const App: React.FC = () => {
       <main>
         <About />
       </main>
+      <Footer />
     </div>
   );
 }
