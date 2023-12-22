@@ -1,0 +1,35 @@
+body{
+    background-color: lightcoral;
+    text-decoration: none;
+}
+
+.bobby a{
+    color: white;
+    background-color: darkslategray;
+    padding-left: 45%;
+    padding: 10px;
+    padding-top: 9%;
+    font-size: 36px;
+    font-weight: bold;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.bobby a:hover{
+    background-color: lightgreen;
+    color: green;
+}
+
+h1{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    color: black;
+    padding-left: 44%;
+    padding-top: 0.5%;
+    text-decoration: none;
+}
